@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="text_expanded" format="boolean" />
+        <attr name="text_collapsed_lines" format="integer" />
+        <attr name="text_click_to_toggle" format="boolean" />
+    </declare-styleable>
+</resources>
